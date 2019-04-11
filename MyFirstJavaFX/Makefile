@@ -21,4 +21,4 @@ clean:
 	\rm executable.jar
 
 zip:
-	jar -cMf myfirstjavafx.zip README.txt executable.jar screenshot* application
+	jar -cMf myfirstjavafx.zip README.txt executable.jar screenshot* application psb*
